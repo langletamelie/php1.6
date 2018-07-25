@@ -8,7 +8,7 @@
 <p>
 <?php
 $name = 'Lucien';
-echo "Bonjour " . $name . ", comment vas-tu?";
+echo 'Bonjour ' . $name . ', comment vas-tu?';
  ?>
 </p>
   </body>
